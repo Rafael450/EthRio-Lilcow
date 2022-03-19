@@ -1,0 +1,10 @@
+#leftbox {
+    float:left;
+    height: 100px;
+    width: 25%;
+}
+#rightbox {
+    float:right;
+    height: 100px;
+    width: 25%;
+}
