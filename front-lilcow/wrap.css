@@ -1,13 +1,12 @@
 #leftbox{
-    text-align: left;
+    text-align:left;
     border: 3px solid black;
     width: 400px;
     height: 100px;
-    margin-left: 40px;
     border-radius: 5px;
 }
 #middlebox{
-    text-align: left;
+    text-align:left;
     border: 3px solid black;
     width: 400px;
     height: 100px;
@@ -15,11 +14,11 @@
     border-radius: 5px;
 }
 #rightbox{
-    text-align: left;
+    text-align:left;
     border: 3px solid black;
     width: 400px;
     height: 100px;
     margin-left: 10px;
     border-radius: 5px;
 }
-.wrap { display:flex;align-items:center}
+.wrap { display:flex;align-items: center;justify-content: center;}
