@@ -69,5 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-https://github.com/mammothtraining/Enable-client-to-interact-with-smart-contract-via-website/blob/main/index.js
+OBS: O scroll infinito foi tirado de um projeto existente
